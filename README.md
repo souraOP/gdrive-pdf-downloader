@@ -104,7 +104,6 @@ Please fork this repo and make sure to give it a star!!!!
 
 <a href="https://star-history.com/#souraOP/gdrive-pdf-downloader&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=souraOP/gdrive-pdf-downloader&type=Date&theme=dark" />
    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=souraOP/gdrive-pdf-downloader&type=Date" />
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=souraOP/gdrive-pdf-downloader&type=Date" />
  </picture>
